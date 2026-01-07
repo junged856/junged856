@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 Languages: TypeScript/JavaScript, Python, Java, C/C++, HTML, CSS<br/>
 Technologies: React, Redux, Next.js, Node.js, Express.js, FireBase, MongoDB, AWS, SQL<br/>
 Tools: Git, Postman, SonarQube, Jira, Confluence<br/>
-<br/>
 ## Currently I'm seeking Summer 2026 internships!<br/>
 <br/>
 📫 Reach me at:<br/>
