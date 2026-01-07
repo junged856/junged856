@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 - 💻 I have completed Software Engineering Internships @ Ontario Public Service and @ Lumentum.
 - 🔭 I’m currently studying Software Engineering at McMaster University.
 - ⚡ I'm passionate about Full-Stack Development and Machine Learning.
-- 🛠 Languages and Tools :<br/>
+
+## 🛠 Languages and Tools :<br/>
 <br/>
 Languages: TypeScript/JavaScript, Python, Java, C/C++, HTML, CSS<br/>
 Technologies: React, Redux, Next.js, Node.js, Express.js, FireBase, MongoDB, AWS, SQL<br/>
 Tools: Git, Postman, SonarQube, Jira, Confluence<br/>
 <br/>
-Currently I'm seeking Summer 2026 internships!<br/>
+## Currently I'm seeking Summer 2026 internships!<br/>
 <br/>
 📫 Reach me at:<br/>
 LinkedIn: https://www.linkedin.com/in/edward-jung3bb/<br/>
