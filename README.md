@@ -23,7 +23,7 @@ Languages: TypeScript/JavaScript, Python, Java, C/C++, HTML, CSS<br/>
 Technologies: React, Redux, Next.js, Node.js, Express.js, FireBase, MongoDB, AWS, SQL<br/>
 Tools: Git, Postman, SonarQube, Jira, Confluence<br/>
 ## Other Interests :<br/>
-Rock climbing (specifically bouldering), digital + traditional art
+Rock climbing, digital + traditional art
 ## Currently I'm seeking Summer 2026 internships!<br/>
 📫 Reach me at:<br/>
 LinkedIn: https://www.linkedin.com/in/edward-jung3bb/<br/>
